@@ -22,6 +22,6 @@ function App() {
       {renderPage()}
     </AppLayout>
   );
-}
+} 
 
 export default App;
